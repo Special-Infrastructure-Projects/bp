@@ -1,0 +1,8 @@
+#autocomplete
+
+@database: autocomplete
+@table_name: articles
+@focus_column: article_title
+@focus_link: test.html
+@focus_limiter: article_body => 100
+
